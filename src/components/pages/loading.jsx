@@ -1,6 +1,6 @@
 function Loader() {
   return (
-    <div className='fixed z-2 top-[17vh] md:top-[15vh] left-0 w-[100%] h-screen bg-slate-600 flex justify-center items-center'>
+    <div className='fixed z-20 top-0 left-0 w-full h-screen bg-slate-600 flex justify-center items-center'>
         <div className="hourglassBackground">
             <div className="hourglassContainer">
             <div className="hourglassCurves"></div>
