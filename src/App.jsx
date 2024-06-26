@@ -14,7 +14,7 @@ function App() {
         loading && (<Loading/>)
         }
         <div className="fixed z-10 top-0 left-0 w-full h-screen bg-[teal] flex flex-col items-center justify-center md:hidden">
-            <p className="text-lg text-white">This is only available in desktop applications</p><br/>
+            <p className="text-xl text-white">This is only available on desktop</p><br/>
             <p className="text-white text-sm">Open the website on a desktop to enjoy</p>
         </div>
       <Nav/>
